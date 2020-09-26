@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scan QrCode Demo</string>
+    <string name="app_description">Scan QrCode Demo</string>
+    <string name="app_description_second">using Firebase ML Kit and CameraX</string>
+
+    <string name="scan_title">Scan QR</string>
+    <string name="splash_button">Scan QR</string>
+    <string name="splash_go_to_src_button">Go to git repository</string>
+
+    <string name="result_title">Scan Result</string>
+    <string name="scan_result_title">Scan Result:</string>
+    <string name="result_button">Open in web</string>
+
+    <string name="github_link">https://github.com/Andrew-Koniushiy/scanQrCodeDemo</string>
+
+</resources>

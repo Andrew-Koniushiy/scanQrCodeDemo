@@ -1,0 +1,4 @@
+storeFile=../sign.key
+storePassword=example
+keyAlias=example
+keyPassword=example
